@@ -1,16 +1,27 @@
-## Hi there 👋
+# ✨ Welcome to My Profile 
+##👋 Hi, I'm Pranay Thakre
+## 👋 Hi, I'm Pranay Thakre
 
-<!--
-**Snehawarade-03/Snehawarade-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🙋‍♂️ About Me:** 
 
-Here are some ideas to get you started:
+Passionate about Data Analytics, SQL, and Python with an interest in transforming raw data into meaningful insights and solutions.
+Focused on building practical projects and continuously improving analytical skills through real-world learning.
+Interested in Business Analytics, Data Visualization, and solving data-driven problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**• Skills:** SQL (Advanced), Database Management, Data Analysis, Data Visualization, Business Analyst                      
+**• Tools and Platforms:** My SQL, TCP/IP, Power BI, Excel, Python   
+**• Soft Skills**🔍 Problem-solving 🤝Collaboration🔄 Adaptability  💭Critical Thinking  👥Teamwork  🎯Goal-oriented
+
+**Internship**
+
+Completed a 6-month internship at CI Cables in the Data Management role, 
+where I worked on maintaining records, handling data, and supporting operational activities.
+Gained practical experience in data organization, reporting, and professional workplace communication.
+
+
+**📌 What I'm Working On**
+
+🔭• Currently building my skills in Advanced SQL & Data Analysis.  
+🌱• Learning Python for Data Science (Pandas, NumPy, Matplotlib).     
+📈• Exploring Power BI Dashboards and data storytelling.    
