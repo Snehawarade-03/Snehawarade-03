@@ -1,6 +1,6 @@
 # ✨ Welcome to My Profile 
-##👋 Hi, I'm Pranay Thakre
-## 👋 Hi, I'm Pranay Thakre
+
+## 👋 Hi, I'm Sneha Warade
 
 **🙋‍♂️ About Me:** 
 
@@ -28,7 +28,7 @@ Gained practical experience in data organization, reporting, and professional wo
 
 **Contact Me**
 
-**🔗 LinkedIn:** .linkedin.com/in/pranay-thakre-b31890347/  
-**📧 Email:** thakrepranay88@gmail.com
+**🔗 LinkedIn:** linkedin.com/in/sneha-warade-1358ab30b 
+**📧 Email:** snehawarade2020@gmail.com
 
 
